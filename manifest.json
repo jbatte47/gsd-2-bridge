@@ -1,0 +1,10 @@
+{
+  "id": "gsd-2-bridge",
+  "name": "GSD-2 Bridge",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Sync markdown task sources with local GSD-2 workflows and dispatch ready work to the GSD-2 CLI.",
+  "author": "jbatte47",
+  "authorUrl": "https://github.com/jbatte47",
+  "isDesktopOnly": true
+}
